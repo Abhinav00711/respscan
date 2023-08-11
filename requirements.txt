@@ -1,0 +1,9 @@
+streamlit
+pillow
+tensorflow
+streamlit-option-menu
+numpy
+pandas
+daal4py
+scikit-learn
+flask
